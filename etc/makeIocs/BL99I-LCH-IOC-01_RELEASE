@@ -1,0 +1,8 @@
+DEVIOCSTATS=    $(SUPPORT)/devIocStats/3-1-14dls3-3
+MOTOR=          $(SUPPORT)/motor/7-0dls2
+PMAC=           $(SUPPORT)/pmac/2-4-16
+POSITIONER=     $(SUPPORT)/positioner/3-4-2
+AUTOSAVE=       $(SUPPORT)/autosave/5-9dls2
+UTILITY=        $(SUPPORT)/utility/dls2-18
+PVLOGGING=      $(SUPPORT)/pvlogging/1-4
+SGON=           /home/jjc62351/work/smargon
